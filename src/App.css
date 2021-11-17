@@ -1,0 +1,53 @@
+.complete{
+  text-decoration: line-through;
+
+}
+
+.todo-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 4px auto;
+  color: #fff;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 118, 20, 1) 0%,
+    rgba(255, 84, 17, 1) 100%
+  );
+}
+.Logo {
+  background-image: url(./task.jpg);
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;  
+}
+table{
+  background-color: rgb(70, 70, 71);
+}
+td{
+  color: rgb(243, 236, 236);
+}
+.lab{
+  background-color: rgb(166, 165, 252);
+}
+
+.card-body{
+  background-color: rgb(70, 70, 71);
+}
+
+.back{
+  background-color: rgb(127, 127, 224);
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+h1{
+  text-align: center;
+}
+
+.addtas{
+  color: #fff;
+}
